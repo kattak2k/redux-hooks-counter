@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Simple flow
+
+![image](https://user-images.githubusercontent.com/19718351/60062216-49f51400-96c6-11e9-922f-285dbbd6f035.png)
+
 
 In the project directory, you can run:
 
